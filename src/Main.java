@@ -56,7 +56,7 @@ public class Main {
                         System.out.println("Wrong choice. ");
                         System.out.println(ele);
                 }
-
+                check = true;
             } while (choose != 1 && choose != 2);
 
 

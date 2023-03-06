@@ -1,3 +1,6 @@
+import java.util.Locale;
+import java.util.Scanner;
+
 public class Elevator {
 
     private int currentFloor = 0;
@@ -5,6 +8,8 @@ public class Elevator {
 
     private int capacity;
     private int amountPerson = 0;
+
+
 
     public Elevator() {
 
